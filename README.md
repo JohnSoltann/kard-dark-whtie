@@ -1,9 +1,11 @@
 # kard-dark-whtie
 "The dark and white theme conveys a sense of power and trust to the recipient, making your card an impactful communication tool."
 
+
 # Digital Business Card with Theme Switcher
 
 This project is a sleek and modern digital business card with a built-in theme switcher, allowing users to toggle between light and dark modes. It's designed to be clean, responsive, and easily customizable.
+
 
 ## Features
 
@@ -36,13 +38,10 @@ This project is a sleek and modern digital business card with a built-in theme s
 
 Contributions are welcome! Feel free to submit pull requests or open issues for any bugs or suggestions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-- **[Your Name/Username]** - [Your Website/Portfolio Link]
+- **I am John soltan** - and this is my youtube Chanell: [(https://www.youtube.com/@Webea)]
 
 ## Acknowledgements
 
@@ -60,4 +59,4 @@ Replace the placeholder image with your actual profile picture.
 Update the name, bio, and social media links with your own information.
 Consider adding a link to a live demo of your business card if you have one hosted online.
 Include screenshots showcasing the different themes and responsive design.
-If you have any specific features or design elements you'd like to highlight, be sure to mention them in the README.
+
